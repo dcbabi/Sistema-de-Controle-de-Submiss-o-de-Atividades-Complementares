@@ -1,0 +1,10 @@
+user stories do público-alvo
+#
+1 - "Eu como aluno, quero visualizar quais são as categorias aceitas, para pode submeter meus certificados de horas complementares."
+2 - Como aluno, quero poder visualizar minhas horas complementares deferidas em uma aba de usuário, para conseguir me organizar."
+3 - Como aluno, quero receber mensagens/ avisos sobre o status da minha solicitação, para poder acompanhar o processo de deferimento."
+4 - Como responsável pela análise de certificados, quero pode avaliar e validar os certificados submetidos pelos alunos, para que não haja fraude nos documentos."
+5 - Como responsável pelas análises de certificado, quero pode definir os limites de carga horária aceitas para cada categoria, para que assim nenhum aluno infle as horas complementares em um único tipo de atividade."
+6 - Como aluno, quero poder ver quantas horas complementares ainda devem ser submetidas, para que eu possa me organizar."
+7 - Como instituição de ensino, quero uma ferramenta prática e intuitiva que auxilie nas análises cotidianas de certificações e ofereça uma boa interface."
+8 - Como aluno, quero pode ver qual foi o motivo do indeferimento em caso de recusa de certificado, para poder reenviar o documento."
