@@ -7,4 +7,5 @@ A plataforma permite com que os alunos enviem certificados e documentos que seja
 O sistema também oferece uma caixa de controle no perfil do usuário, permitindo com que suas horas complementares sejam visualizadas de maneira mais prática e direta.
 
 Dupla: Bárbara Diniz e Myrela Feitosa
+
 Ferramentas Utilizadas: Notion, GitHub, GoogleDocs, Dicord
